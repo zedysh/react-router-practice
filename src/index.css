@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100dvh;
+}
+
+nav {
+  padding: 2em;
+  height: 3em;
+
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  background-color: rgb(223, 223, 223);
+}
+
+a {
+  font-size: 1.5em;
+}
